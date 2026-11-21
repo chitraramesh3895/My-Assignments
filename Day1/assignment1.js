@@ -1,0 +1,10 @@
+let userName = "Chitra";
+console.log(userName);
+let organization = "Patra India";
+console.log(organization);
+let contactNumber = 7397768374;
+console.log(contactNumber);
+let knowsAutomation = true;
+console.log(knowsAutomation);
+let usesPlaywright;
+console.log(typeof usesPlaywright);
